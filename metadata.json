@@ -1,0 +1,8 @@
+{
+  "name": "Remix Product \u0026 Video Store",
+  "description": "Create your online store, add products with video clips, and easily share items and videos on WhatsApp and other apps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
